@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "BERT transformer",
       "tensorShape": [
         1000,
         50
